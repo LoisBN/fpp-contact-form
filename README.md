@@ -4,8 +4,11 @@ Build a contact form that validates input, saves messages to Supabase, and shows
 
 ## Quick Start
 
+**1. Fork this repo** — Click the **Fork** button at the top right of this page.
+
+**2. Clone your fork:**
 ```bash
-git clone https://github.com/LoisBN/fpp-contact-form.git
+git clone https://github.com/YOUR-GITHUB-USERNAME/fpp-contact-form.git
 cd fpp-contact-form
 npm install
 ```
